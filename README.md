@@ -1,2 +1,3 @@
 # code-of-galerkin
-my numerical code.
+My numerical code. 
+Classified according to specific numerical examples.
